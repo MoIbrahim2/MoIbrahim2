@@ -35,8 +35,8 @@
 ### 📫 Connect With Me
 
 - Email: your.email@example.com  
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/mohamed-ibrahim-mostafa-106720278/)
-- Facebook: [Your Facebook](https://www.facebook.com/mohamed.ibrahim.hassan.975326)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohamed-ibrahim-mostafa-106720278/)
+- Facebook: [Facebook](https://www.facebook.com/mohamed.ibrahim.hassan.975326)
 ---
 
 <!-- You can also add a quote or fun fact here if you like -->
