@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ibrahim Mostafa</h1>
 <h3 align="center">
-Aspiring Software Engineer | Computer Science Student @ Mansoura University
+Aspiring Software Engineer | Computer Science Graduate from @ Mansoura University
 </h3>
 
 <p align="center">
@@ -16,7 +16,7 @@ Aspiring Software Engineer | Computer Science Student @ Mansoura University
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science student at **Mansoura University**, Faculty of Computer & Information  
+- 🎓 Computer Science Gradute at **Mansoura University**, Faculty of Computer & Information  
 - 💻 Passionate about **Backend Development**, **problem-solving**, and **real-world projects**
 - 🚀 Currently improving my skills in **Web Development**, **Data Structures**, and **Algorithms**
 - ⚽ Football fan — playing and watching in my free time
