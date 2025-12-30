@@ -33,27 +33,6 @@ Aspiring Software Engineer | Computer Science Student @ Mansoura University
 
 ---
 
-## 📊 GitHub Stats
-
-> ⚠️ Note: GitHub stats may occasionally fail due to rate limits.  
-> These versions are the most stable currently.
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MoIbrahim2&show_icons=true&theme=tokyonight&hide_border=true" 
-    alt="GitHub Stats" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MoIbrahim2&layout=compact&theme=tokyonight&hide_border=true" 
-    alt="Top Languages" 
-  />
-</p>
-
----
-
 ## 📫 Contact Me
 
 - 📧 Email: **your.email@example.com**  
