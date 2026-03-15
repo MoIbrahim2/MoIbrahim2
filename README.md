@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MoIbrahim2&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/mohamed-ibrahim-mostafa-106720278/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -88,11 +92,7 @@ JWT authentication system with refresh tokens and role-based authorization.
 # 📊 GitHub Stats
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=MoIbrahim2&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoIbrahim2&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -105,17 +105,9 @@ JWT authentication system with refresh tokens and role-based authorization.
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MoIbrahim2&theme=tokyo-night"/>
-</p>
-
----
-
 # 📫 Contact Me
 
-📧 Email: **[your.email@example.com](mailto:mhmd.ibrahim03@gmail.com)**
+📧 Email: **[your.email@example.com](mailto:your.email@example.com)**
 
 💼 LinkedIn:
 https://www.linkedin.com/in/mohamed-ibrahim-mostafa-106720278/
